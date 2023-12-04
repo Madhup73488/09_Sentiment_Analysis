@@ -5,7 +5,8 @@ Sentiment Analysis Of Lockdown In India During Covid-19 A Case Study On  Twitter
 Built a python application that asks for a keyword and you need to identify the sentiment of that 
 keyword using an open source dataset. 
 ## DataSet:
+  ### Use this drive link to access :
   ### Original DataSet from open Source :
-      Use this drive link to access : 
+       
   ### DataSet after preprocessing and cleansing :
       Use this drive link to access :
